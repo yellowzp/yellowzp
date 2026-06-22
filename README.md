@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 my blog website:
-[1](https://yellowzp.github.io)
+[https://yellowzp.github.io](https://yellowzp.github.io)
 
 <!--
 **yellowzp/yellowzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
